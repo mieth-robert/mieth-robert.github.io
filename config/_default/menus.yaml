@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: News
-    url: '#recent-news'
+    url: '#recent_news'
     weight: 20
 
 
