@@ -43,4 +43,4 @@ email: ""
 
 I am currently a Postdoctoral Fellow at Department of Electrical and Computer Engineering at [Princeton University](https://ece.princeton.edu/people/robert-mieth). I received the Doctorate in engineering (Dr.-Ing.) degree from the [Technical University of Berlin](https://www.control.tu-berlin.de/Welcome), Germany, in 2021. From 2018 to 2020, I was a Visiting Scholar and, from 2021 to 2022, a Postdoctoral Reseracher at the Department of Electrical and Computer Engineering of [New York University](https://engineering.nyu.edu/)'s Tandon School of Engineering. My research interests include risk analysis, stochastic optimization, and data methods for modern power system operations and electricity markets.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv_mieth.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_mieth.pdf" "newtab" >}}CV{{< /staticref >}}.
