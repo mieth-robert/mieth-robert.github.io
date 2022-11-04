@@ -1,0 +1,1 @@
+These are the innards of my website. It looks much nicer from [this perspective](https://mieth-robert.github.io/).
