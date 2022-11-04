@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://https:/mieth-robert.github.io/sitemap.xml
