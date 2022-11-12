@@ -1,9 +1,9 @@
 ---
-title: "An example journal article"
+title: "Data-Driven Distributionally Robust Optimal Power Flow for Distribution Systems"
 authors:
 - admin
 - Yury Dvorkin
-date: "2018-07-01T00:00:00Z"
+date: "2018"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/1803.04912.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
