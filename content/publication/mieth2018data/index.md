@@ -3,7 +3,6 @@ title: "An example journal article"
 authors:
 - admin
 - Yury Dvorkin
-author_notes:
 date: "2018-07-01T00:00:00Z"
 doi: ""
 
