@@ -12,7 +12,7 @@ active: false
 weight: 30
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'All publications are listed [HERE](https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en)'
 
 content:
   # Filter on criteria
