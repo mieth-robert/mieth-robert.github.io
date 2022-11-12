@@ -3,7 +3,7 @@ title: "Data-Driven Distributionally Robust Optimal Power Flow for Distribution 
 authors:
 - admin
 - Yury Dvorkin
-date: "2018"
+date: "2018-07-01T00:00:00Z'"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
