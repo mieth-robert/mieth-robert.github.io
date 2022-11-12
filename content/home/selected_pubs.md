@@ -10,8 +10,8 @@ headless: true
 weight: 80
 active: true
 
-title: Featured Publications
-subtitle: ''
+title: Selected Publications
+subtitle: 'Find all publications [>>HERE](https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en)'
 
 content:
   # Page type to display. E.g. post, talk, publication...
