@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*IEEE Control System Letters*"
 publication_short: ""
 
-abstract: ""
+abstract: "Increasing penetration of distributed energy resources complicate operations of electric power distribution systems by amplifying volatility of nodal power injections. On the other hand, these resources can provide additional control means to the distribution system operator (DSO). In this work we develop a data-driven distributionally robust decision-making framework in the DSO's perspective to overcome the uncertainty of these injections and its impact on the distribution system operations. We develop an ac optimal power flow formulation for radial distribution systems based on the LinDistFlow ac power flow approximation and exploit distributionally robust optimization to immunize the optimized decisions against uncertainty in the probabilistic models of forecast errors obtained from the available observations. The model is reformulated to be computationally tractable and tested on multiple IEEE distribution test systems."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -60,13 +60,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
