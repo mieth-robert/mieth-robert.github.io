@@ -3,7 +3,7 @@ title: "Data-Driven Distributionally Robust Optimal Power Flow for Distribution 
 authors:
 - admin
 - Yury Dvorkin
-date: 2018
+date: 2018-07-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: 'https://arxiv.org/pdf/1803.04912.pdf'
-url_code: ''
+url_code: 'https://github.com/mieth-robert/distribution_grid_analysis'
 url_dataset: ''
 url_poster: ''
 url_project: ''
