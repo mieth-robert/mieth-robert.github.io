@@ -12,7 +12,7 @@ active: true
 
 title: Selected Publications
 
-subtitle: All publications [HERE>>](/publication) {{< br\ >}}
+subtitle: All publications [HERE>>](/publication) {{< br >}}
  and on [Google Scholar{{< icon name="google-scholar" pack="ai" >}}](https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en)
 
 content:
