@@ -1,7 +1,7 @@
 ---
 title: "Distribution electricity pricing under uncertainty"
 authors:
-- **Robert Mieth**
+- admin
 - Yury Dvorkin
 date: 2020-05-01
 doi: "10.1109/TPWRS.2019.2954971"
@@ -24,7 +24,7 @@ abstract: "Distribution locational marginal prices (DLMPs) facilitate the effici
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ""
+tags: ''
 featured: true
 
 # links:
@@ -42,8 +42,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''''
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
