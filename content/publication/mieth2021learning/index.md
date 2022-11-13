@@ -32,7 +32,7 @@ featured: yes
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/mele.2020.3047470.pdf'
+url_pdf: ''
 url_code: '' 
 url_dataset: ''
 url_poster: ''
