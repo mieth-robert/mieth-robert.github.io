@@ -11,7 +11,10 @@ weight: 80
 active: true
 
 title: Selected Publications
-subtitle: 'Find all publications [>>HERE](https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en)'
+subtitle: """
+  [All publications>>](/publication)
+  ([Google Scholar](https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en))
+"""
 
 content:
   # Page type to display. E.g. post, talk, publication...
