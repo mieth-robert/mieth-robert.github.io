@@ -4,7 +4,7 @@ authors:
 - Matt Roveto
 - Robert Mieth 
 - Yury Dvorkin
-date: 2020-06-05
+date: 2020-05-21
 doi: "10.1109/LCSYS.2020.3000188"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*IEEE Control Systems Letters*"
 publication_short: ""
 
-abstract: "Existing electricity market designs assume risk neutrality and lack risk-hedging instruments, which leads to suboptimal market outcomes and reduces the overall market efficiency. This letter enables risk-trading in the chance-constrained stochastic electricity market by introducing Arrow-Debreu Securities (ADS) and derives a risk-averse market-clearing model with risk trading. To enable risk trading, the probability space of underlying uncertainty is discretized in a finite number of outcomes, which makes it possible to design practical risk contracts and to produce energy, balancing reserve and risk prices. Notably, although risk contracts are discrete, the model preserves the continuity of chance constraints. The case study illustrates the usefulness of the proposed risk-averse chance-constrained electricity market with risk trading."
+abstract: "The ability to make optimal decisions under uncertainty remains important across a variety of disciplines from portfolio management to power engineering. This generally implies applying some safety margins on uncertain parameters that may only be observable through a finite set of historical samples. Nevertheless, the optimized decisions must be resilient to all probable outcomes, while ideally providing some measure of severity of any potential violations in the less probable outcomes. It is known that the conditional value-at-risk (CVaR) can be used to quantify risk in an optimization task, though may also impose overly conservative margins. Therefore, this letter develops a means of co-optimizing the value-at-risk (VaR) level associated with the CVaR to guarantee resilience in probable cases while providing a measure of the average violation in less probable cases. To further combat uncertainty, the CVaR and VaR co-optimization is extended in a distributionally robust manner using the Wasserstein metric to establish an ambiguity set constructed from finite samples, which is guaranteed to contain the true distribution with a certain confidence."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -31,8 +31,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/ielaam/7782633/9120059/9109293-aam.pdf'
-url_code: 'https://github.com/mieth-robert/risk_trading_CCMarket' 
+url_pdf: 'https://ieeexplore.ieee.org/ielaam/7782633/9099341/9099127-aam.pdf'
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
