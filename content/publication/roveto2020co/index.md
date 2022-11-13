@@ -1,12 +1,12 @@
 ---
-title: "Learning-Enabled Residential Demand Response: Automation and Security of Cyberphysical Demand Response Systems"
+title: "Co-optimization of VaR and CVaR for data-driven stochastic demand response auction"
 authors:
 - Robert Mieth
 - Samrat Acharya
 - Ali Hassan
 - Yury Dvorkin
-date: 2021-03-05
-doi: "10.1109/MELE.2020.3047470"
+date: 2020-06-05
+doi: "10.1109/LCSYS.2020.3000188"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,22 +18,22 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Electrification Magazine*"
+publication: "* IEEE Control Systems Letters*"
 publication_short: ""
 
-abstract: "Residential Demand Response (DR) Programs have been validated as a viable technology to improve energy efficiency and the reliability of electric power distribution. However, various technical and organizational challenges hinder their full techno-economic potential. In practice, these challenges are related to the small-scale, distributed, heterogeneous, and stochastic nature of residential DR resources. This article investigates state-of-the-art online and reinforcement learning methods that are capable of overcoming these challenges in the context of DR pricing, scheduling, and cybersecurity."
+abstract: "Existing electricity market designs assume risk neutrality and lack risk-hedging instruments, which leads to suboptimal market outcomes and reduces the overall market efficiency. This letter enables risk-trading in the chance-constrained stochastic electricity market by introducing Arrow-Debreu Securities (ADS) and derives a risk-averse market-clearing model with risk trading. To enable risk trading, the probability space of underlying uncertainty is discretized in a finite number of outcomes, which makes it possible to design practical risk contracts and to produce energy, balancing reserve and risk prices. Notably, although risk contracts are discrete, the model preserves the continuity of chance constraints. The case study illustrates the usefulness of the proposed risk-averse chance-constrained electricity market with risk trading."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: ''
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: '' 
+url_pdf: 'https://ieeexplore.ieee.org/ielaam/7782633/9120059/9109293-aam.pdf'
+url_code: 'https://github.com/mieth-robert/risk_trading_CCMarket' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
