@@ -1,10 +1,10 @@
 ---
 title: "Data-Driven Distributionally Robust Optimal Power Flow for Distribution Systems"
 authors:
-- admin
+- Robert Mieth
 - Yury Dvorkin
 date: 2018-07-01
-doi: ""
+doi: "10.1109/LCSYS.2018.2836870"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

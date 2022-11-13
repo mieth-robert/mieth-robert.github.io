@@ -1,9 +1,9 @@
 ---
 title: "Distribution electricity pricing under uncertainty"
 authors:
-- admin
+- Robert Mieth
 - Yury Dvorkin
-date: 2020-05-01
+date: 2019-11-01
 doi: "10.1109/TPWRS.2019.2954971"
 
 # Schedule page publish date (NOT publication's date).
