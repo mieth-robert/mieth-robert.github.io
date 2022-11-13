@@ -1,9 +1,8 @@
 ---
 title: "Co-optimization of VaR and CVaR for data-driven stochastic demand response auction"
 authors:
-- Robert Mieth
-- Samrat Acharya
-- Ali Hassan
+- Matt Roveto
+- Robert Mieth 
 - Yury Dvorkin
 date: 2020-06-05
 doi: "10.1109/LCSYS.2020.3000188"
@@ -18,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Control Systems Letters*"
+publication: "*IEEE Control Systems Letters*"
 publication_short: ""
 
 abstract: "Existing electricity market designs assume risk neutrality and lack risk-hedging instruments, which leads to suboptimal market outcomes and reduces the overall market efficiency. This letter enables risk-trading in the chance-constrained stochastic electricity market by introducing Arrow-Debreu Securities (ADS) and derives a risk-averse market-clearing model with risk trading. To enable risk trading, the probability space of underlying uncertainty is discretized in a finite number of outcomes, which makes it possible to design practical risk contracts and to produce energy, balancing reserve and risk prices. Notably, although risk contracts are discrete, the model preserves the continuity of chance constraints. The case study illustrates the usefulness of the proposed risk-averse chance-constrained electricity market with risk trading."
@@ -27,7 +26,7 @@ abstract: "Existing electricity market designs assume risk neutrality and lack r
 summary: ""
 
 tags: ''
-featured: true
+featured: false
 
 # links:
 # - name: ""
