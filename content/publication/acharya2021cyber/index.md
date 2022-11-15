@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Power Systems*"
+publication: "*IEEE Transactions on Smart Grid*"
 publication_short: ""
 
 abstract: "Cyberattacks in the energy sector are commonplace. Load-altering cyberattacks launched via the manipulations of high-wattage appliances and assets are particularly alarming, as they are not continuously monitored by electric power utilities. Public Electric Vehicle Charging Stations (EVCSs) are among such high-wattage assets. Even EVCSs monitored by the electric power utilities and protected by state-of-the-art defense mechanisms are vulnerable to cyberattacks. Such cyberattacks cause financial losses to the EVCSs. In this paper, we propose cyber insurance for EVCSs to hedge the economic loss due to such cyberattacks and develop a data-driven cyber insurance design model for public EVCSs. Under mild modeling assumptions, we derive an optimal cyber insurance premium. Then, we ensure the robustness of this optimal premium and investigate the risk of insuring the EVCSs using a suitable risk assessment metric (Conditional Value-at-Risk). A case study with data from EVCSs in Manhattan, New York illustrates our results. Our results demonstrate that risk assessment is crucial for designing insurance premiums. Furthermore, the premium increases in proportion to the loss coverage offered for the EVCSs. This work informs the stakeholders involved in the roll-out and operation of public EVCSs about the benefits of cyber insurance and suggests that insurance premiums can be reduced by deploying state-of-the-art defense mechanisms."
