@@ -5,9 +5,12 @@ avatar_filename: avatar.jpg
 bio: Robert's research interests include risk analysis, stochastic optimization,
   and data methods for modern power system operations and electricity markets.
 interests: 
-  - Stochastic Optimzation
-  - Power System Operations
-  - Power System Economics
+  - Power System Operation and Planning
+  - Decarbonization and Renewable Energy Integration
+  - Electricity Markets and Energy Economics
+  - Stochastic Optimization and Data Methods for Power Systems
+  - Power System Resiliencey and Cybersecurity
+  - Distributed and Demand-Side Resources
   - Open Science 
 social:
   - display:
