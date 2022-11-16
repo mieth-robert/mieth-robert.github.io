@@ -26,17 +26,17 @@ social:
 organizations:
   - name: Princeton University
     url: https://ece.princeton.edu/people/robert-mieth
-education:
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: Technical University Berlin
-      year: 2021
-    - course: MSc Electrical Enegineering
-      institution: Technical University of Berlin
-      year: 2017
-    - course: MSc Industrial Engineering
-      institution: Technical University of Berlin
-      year: 2017
+# education:
+#   courses:
+#     - course: PhD in Electrical Engineering
+#       institution: Technical University Berlin
+#       year: 2021
+#     - course: MSc Electrical Enegineering
+#       institution: Technical University of Berlin
+#       year: 2017
+#     - course: MSc Industrial Engineering
+#       institution: Technical University of Berlin
+#       year: 2017
 superuser: true
 last_name: Mieth
 highlight_name: true
