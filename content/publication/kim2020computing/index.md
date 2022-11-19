@@ -26,7 +26,7 @@ abstract: "US transmission systems and wholesale electricity markets, albeit fed
 summary: ""
 
 tags: ''
-featured: true
+featured: false
 
 # links:
 # - name: ""

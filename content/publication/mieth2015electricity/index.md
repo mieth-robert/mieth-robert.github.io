@@ -28,7 +28,7 @@ abstract: "Grid optimization, capacity increases, and grid expansion all play a 
 summary: ""
 
 tags: ''
-featured: true
+featured: false
 
 # links:
 # - name: ""
