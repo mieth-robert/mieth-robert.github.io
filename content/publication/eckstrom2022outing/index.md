@@ -1,5 +1,5 @@
 ---
-title: "Cyber insurance against cyberattacks on electric vehicle charging stations"
+title: "Outing Power Outages: Real-time and Predictive Socio-demographic Analytics for New York City"
 authors:
 - Samuel Eckstrom
 - Graham Murphy
@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/pdf/2202.11066.pdf
-url_code: ''
+url_code: https://outagesnycserver.cusp.nyu.edu/outages
 url_dataset: ''
 url_poster: ''
 url_project: ''
