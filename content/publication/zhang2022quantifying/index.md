@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*2023 IEEE Power & Energy Society General Meeting (PESGM)*, under review"
 publication_short: ""
 
 abstract: "Envisioning a future 100% electrified transportation sector, this paper proposes a model framework that uses socio-economic, demographic, and geographic data to estimate electric energy demand from commuter traffic. Additionally, we explore the possible mode choices of each individual, which allows to create mode-mix scenarios for the entire population. We quantify the electric energy demand for each scenario using technical specifications of state-of-the-art battery and electric drives technology in combination with different charging scenarios. Using data sets for New York City, our results highlight the need for infrastructure investments, the usefulness of flexible charging policies and the positive impact of incentivizing micromobility and mass-transit options. Our model and results are publicly available as interactive Dashboard [HERE](http://tecnyc.herokuapp.com/)"
