@@ -156,7 +156,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-319752684" class="chart">&lt;/div>
+&lt;div id="chart-361482759" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +165,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-319752684', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-361482759', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -525,8 +525,8 @@ data-background-image="/media/boards.jpg"
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Optimal Load Ensemble Control in Chance-Constrained Optimal Power Flow</title><link>https://mieth-robert.github.io/publication/hassan2018optimal/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://mieth-robert.github.io/publication/hassan2018optimal/</guid><description/></item><item><title>Data-Driven Distributionally Robust Optimal Power Flow for Distribution Systems</title><link>https://mieth-robert.github.io/publication/mieth2018data/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>https://mieth-robert.github.io/publication/mieth2018data/</guid><description/></item><item><title>An Overview of DFIG Ride through Strategies under Grid Faults</title><link>https://mieth-robert.github.io/publication/valikhani2018overview/</link><pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate><guid>https://mieth-robert.github.io/publication/valikhani2018overview/</guid><description/></item><item><title>News</title><link>https://mieth-robert.github.io/news/</link><pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate><guid>https://mieth-robert.github.io/news/</guid><description>
-&lt;p>&lt;strong>[21/11/22]&lt;/strong> New preprint: &lt;a href="https://mieth-robert.github.io/publication/zhang2022quantifying">Quantifying Electricity Demand for 100% Electrified Transportation in New York City&lt;/a>&lt;/p>
-&lt;p>&lt;strong>[16/11/22]&lt;/strong> Our work &lt;a href="https://storymaps.arcgis.com/stories/8b83356c064b4663bfb4b04dbe8677eb" target="_blank" rel="noopener">The Electric Commute: Envisioning 100% Electrified Mobility in New York City&lt;/a> was &lt;strong>awarded runner-up&lt;/strong> at the &lt;a href="https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/contest/gallery/2022-winners" target="_blank" rel="noopener">2022 ArcGIS StoryMaps Competition&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>[21/11/22]&lt;/strong> New preprint: &lt;a href="https://mieth-robert.github.io/publication/zhang2022quantifying">Quantifying Electricity Demand for 100% Electrified Transportation in New York City&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>[16/11/22]&lt;/strong> &lt;strong>Award:&lt;/strong> Our work &lt;a href="https://storymaps.arcgis.com/stories/8b83356c064b4663bfb4b04dbe8677eb" target="_blank" rel="noopener">The Electric Commute: Envisioning 100% Electrified Mobility in New York City&lt;/a> was awarded runner-up at the &lt;a href="https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/contest/gallery/2022-winners" target="_blank" rel="noopener">2022 ArcGIS StoryMaps Competition&lt;/a>. (See also the corresponding &lt;a href="https://mieth-robert.github.io/publication/zhang2022quantifying">paper&lt;/a>.)&lt;/p>
 &lt;p>&lt;strong>[14/09/22]&lt;/strong> &lt;span style="color:red">&lt;strong>!!!&lt;/strong>&lt;/span> I am honored to have been awarded a fellowship from the &lt;a href="https://www.leopoldina.org/en/about-us/" target="_blank" rel="noopener">German Academy of Scienes (Leopoldina&lt;/a>) for my proposal on &lt;em>Privacy-aware Optimal Coordination of Energy resources via transactive Data EXchange (POCEDEX)&lt;/em>.&lt;/p>
 &lt;p>&lt;strong>[01/09/22]&lt;/strong> Zhirui Liang, Yury Dvorkin, Miquel Ortega-Vazquez and I released a new pre-print titled &lt;a href="https://mieth-robert.github.io/publication/liang2022weather">Weather-Driven Flexibility Reserve Procurement&lt;/a>.&lt;/p>
 &lt;p>&lt;strong>[01/09/22]&lt;/strong> &lt;span style="color:red">&lt;strong>!!!&lt;/strong>&lt;/span> I have started a new position as a Postdoctoral Researcher at &lt;a href="https://ece.princeton.edu/people/robert-mieth" target="_blank" rel="noopener">Princeton University&lt;/a>.&lt;/p></description></item><item><title>Example Project</title><link>https://mieth-robert.github.io/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://mieth-robert.github.io/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
