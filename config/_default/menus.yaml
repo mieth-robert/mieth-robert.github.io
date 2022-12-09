@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: News
-    url: '#recent_news'
+    url: '/news'
     weight: 20
   - name: Publications
-    url: '#selected_pubs'
+    url: '/publication'
     weight: 30
 
 
