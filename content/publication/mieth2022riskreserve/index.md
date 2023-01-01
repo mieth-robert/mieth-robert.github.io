@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Electrification Magazine*"
+publication: "*IEEE Transactions on Power System*"
 publication_short: ""
 
 abstract: "Current contingency reserve criteria ignore the likelihood of individual contingencies and, thus, their impact on system reliability and risk. This paper develops an iterative approach, inspired by the current security-constrained unit commitment (SCUC) practice, enabling system operators to determine risk-cognizant contingency reserve requirements and their allocation with minimal alterations to the current SCUC practice. The proposed approach uses generator and transmission system reliability models, including failure-to-synchronize and adverse conditions, to compute contingency probabilities. These probabilities are then used to inform a reliability assessment of the system using a suitable risk metric, i.e., expected energy not served. By iteratively learning the response of generators to post-contingency states within the SCUC we ensure reserve deliverability in this risk-assessment. The effectiveness of the proposed approach is demonstrated using the Grid Modernization Lab Consortium update of the Reliability Test System."
